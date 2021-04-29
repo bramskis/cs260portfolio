@@ -1,0 +1,22 @@
+html {
+  background-color: rgb(166, 178, 233);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#mainContainer {
+    background-color: aliceblue;
+    text-align: center !important;
+    padding-bottom: 30px;
+}
+
+#aboutInfoContainer {
+    background-color: aquamarine;
+    width: fit-content;
+    height: fit-content;
+    text-align: center !important;
+    margin-left: 25%;
+    padding: 10px;
+    border-radius: 10px;
+}
