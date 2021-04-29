@@ -16,7 +16,38 @@ html {
     width: fit-content;
     height: fit-content;
     text-align: center !important;
-    margin-left: 25%;
+    margin-left: 20%;
     padding: 10px;
     border-radius: 10px;
+}
+
+.companyText {
+    font-style: italic;
+}
+
+#navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navTab {
+    float: left;
+    display: block;
+    padding: 8px;
+    background-color: #333;
+}
+
+.navLink {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navTab:hover {
+    background-color: #111;
 }
